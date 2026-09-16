@@ -1,14 +1,5 @@
 # Personal Portfolio
 
-A responsive personal portfolio website built with HTML and Bootstrap.
+A responsive personal portfolio page created for ENTPROG BSIS02, published live on GitHub Pages.
 
-## Live Website
-
-https://jannuelleleano.github.io/portfolio/
-
-## Technologies
-
-- HTML5
-- Bootstrap 5
-- Git
-- GitHub Pages
+- **Live Site:** https://jannuelleleano.github.io/Portfolio
